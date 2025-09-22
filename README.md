@@ -13,13 +13,8 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Actualmente estoy estudiando la TEC en Programacion en la UTN
-
-  
-  
-
-- 🌱 Desarrollador Full Stack en progreso
-
+🌱 Desarrollador Full Stack | Tecnico en Programación (UTN).
+Actualmente construyendo y optimizando flujos de trabajo empresariales con n8n y Make.
   
 
 
